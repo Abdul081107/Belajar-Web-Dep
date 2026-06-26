@@ -1,0 +1,14 @@
+perjalanan belajar
+- html dasar
+- html lanjutan 
+- css dasar
+- css layounting dasar 
+- membuat website sederhana menggunakan html & css
+- css3
+- css units
+- flex box
+- css grid
+- git 
+- css framework
+- dasar java script
+- dosument object model
